@@ -1,8 +1,12 @@
-##Reproduce figure 1A, 1B from Pickrell et al. (2014)##
+## Attempted improvement of figure 1A, 1B from Pickrell et al. (2014)
 
->git clone https://github.com/joepickrell/fig1.git
+### Old version
 
->cd fig1/
+![old plot](http://www.pnas.org/content/111/7/2632/F1.large.jpg)
 
->R --vanilla < plot_ju_bi.R
+### New version
+
+note: data for fig1c was not provided
+
+![new plot](https://github.com/Blahah/fig1/blob/master/fullplot.png?raw=true)
 
